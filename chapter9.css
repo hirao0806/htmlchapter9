@@ -28,10 +28,6 @@ main{
     margin: 15px 0 5px;
 }
 
-.text{
-
-}
-
 .box-1{
 	background-color: white;
 	width: 300px;
@@ -89,13 +85,16 @@ main{
     .box-1{
     	margin: 0 auto;
     	float: none;
+    	width: 90%;
 	}
     .box-2{
 		margin: 20px auto 20px auto;
 		float: none;
+		width: 90%;
 	}
 	.box-3{
 		margin: 0 auto;
 		float: none;
+		width: 90%;
 	}
 }
